@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  make: MyString
+  model: MyString
+  build_date: 2021-03-30 21:29:45
+  colour: one
+
+two:
+  make: MyString
+  model: MyString
+  build_date: 2021-03-30 21:29:45
+  colour: two
