@@ -1,4 +1,4 @@
-# Cars and colours
+# Cars & Colours (Recent API Backend Tech Test)
 
 ## Getting started
 Clone this repository:
